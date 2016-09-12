@@ -1,0 +1,22 @@
+{
+  "name": "gulp_turtorial",
+  "description": "gulp_turtorial",
+  "main": "index.js",
+  "authors": [
+    "robmro27 <robert.mroz1985@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.0.1",
+    "moment": "2.0.0",
+    "prism": "^1.5.1"
+  }
+}
